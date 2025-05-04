@@ -14,7 +14,7 @@ import sql from "../src/assets/sql.png";
 import side2 from "../src/assets/side3.jpg";
 import cyber from "./assets/Cy1.png"
 import Ecomerce from "./assets/Ecomerce1.png"
-import Todo from "./assets/Todo.png"
+import Todo from "./assets/todo.png"
 import EcomerceOnePage from "./assets/EcomerceOnePage.png"
 import OnlineSchool from "./assets/OnlineSchool.png"
 import TravelWorld from "./assets/TravelWorld.png"
